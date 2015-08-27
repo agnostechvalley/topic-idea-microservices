@@ -12,3 +12,5 @@ This month's topic is microservices. We'll have 4 presentations total. The overv
 - __Microservices in Go__
 - __Microservices in Node__
 - __Microservices in Elixir__
+
+### Beverages and Discussion
