@@ -6,6 +6,8 @@ This month's topic is microservices. We'll have 4 presentations total. The overv
 
 - [Microservices - Martin Fowler](http://martinfowler.com/articles/microservices.html)
 - [What is Microservices Architecture](http://smartbear.com/all-resources/articles/what-is-microservices-architecture/)
+- [Delving Into the Microservices Architecture](http://blog.smartbear.com/microservices/delving-into-the-microservices-architecture/)
+- [Microservices: Decomposing Applications for Deployability and Scalability](http://www.infoq.com/articles/microservices-intro)
 
 ## General Schedule
 
